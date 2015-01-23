@@ -10,3 +10,5 @@
 % rake db:seed
 % padrino s
 ```
+
+access to `localhost:3000/admin`
