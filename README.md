@@ -11,4 +11,4 @@
 % padrino s
 ```
 
-access to `localhost:3000/admin`
+access to `http://localhost:3000/admin`
