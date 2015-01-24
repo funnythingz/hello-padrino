@@ -37,7 +37,7 @@ module HelloPadrino
       g.helper false
       g.test_frameword :rspec,
         fixture: true,
-        view_specs: false.
+        view_specs: false,
         helper_specs: false,
         controller_specs: false,
         request_specs: false
