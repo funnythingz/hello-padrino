@@ -36,6 +36,7 @@ gem 'annotate'
 group :development, :test do
   gem 'typescript-rails', '~> 0.4.2'
   gem 'byebug'
+  gem 'quiet_assets'
   gem 'web-console', '~> 2.0.0.beta4'
   gem 'spring'
   gem 'rspec-rails', '~> 3.0'
@@ -54,6 +55,7 @@ group :development do
   gem 'quiet_assets'
   gem 'rack-mini-profiler'
   gem 'tapp'
+  gem 'bullet'
 end
 
 group :test do
