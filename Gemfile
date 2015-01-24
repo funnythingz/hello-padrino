@@ -3,6 +3,7 @@ source 'https://rails-assets.org'
 
 gem 'rails', '~> 4.2.0'
 gem 'rake', '~> 10.4.2'
+gem 'sinatra'
 gem 'mysql2'
 gem 'sass-rails', '~> 5.0.1'
 gem 'compass-rails', '~> 2.0.1', git: 'https://github.com/Compass/compass-rails.git'
