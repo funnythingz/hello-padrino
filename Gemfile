@@ -31,6 +31,7 @@ gem 'meta-tags'
 gem 'validates_email_format_of'
 gem 'ransack', github: 'activerecord-hackery/ransack'
 gem 'whenever'
+gem 'annotate'
 
 group :development, :test do
   gem 'typescript-rails', '~> 0.4.2'
