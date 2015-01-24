@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 source 'https://rails-assets.org'
 
-
 gem 'rails', '~> 4.2.0'
 gem 'rake', '~> 10.4.2'
 gem 'mysql2'
@@ -53,7 +52,7 @@ group :development, :test do
 end
 
 group :development do
-  gem "better_errors"
+  gem 'better_errors'
   gem 'quiet_assets'
   gem 'rack-mini-profiler'
   gem 'tapp'
@@ -67,4 +66,3 @@ end
 
 group :production do
 end
-
