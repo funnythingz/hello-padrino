@@ -1,1 +1,1 @@
-require Rails.root.join('app/sinatra/app')
+require Rails.root.join('sinatra/app')

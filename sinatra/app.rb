@@ -1,5 +1,5 @@
 class App < Sinatra::Base
   get '/' do
-    'Hello Sinatra on Rails'
+    render :slim, :top
   end
 end
