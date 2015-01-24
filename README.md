@@ -1,1 +1,1 @@
-# sandobox-rails
+# sinatra-rails
