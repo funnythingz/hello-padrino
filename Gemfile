@@ -41,6 +41,7 @@ group :development, :test do
   gem 'spring'
   gem 'rspec-rails', '~> 3.0'
   gem 'factory_girl_rails'
+  gem 'rubocop'
   gem 'pry-rails'
   gem 'pry-doc'
   gem 'pry-stack_explorer'
@@ -48,6 +49,7 @@ group :development, :test do
   gem 'guard'
   gem 'guard-rspec'
   gem 'guard-spring'
+  gem 'guard-rubocop'
 end
 
 group :development do
